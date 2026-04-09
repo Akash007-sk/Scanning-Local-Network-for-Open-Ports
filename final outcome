@@ -1,0 +1,4 @@
+ Host IP    Open Ports   Detected Service      Risk Level                         Recommendation
+192.168.1.1  "80,443"    RouterAdmin             Low                       Ensure strong password
+192.168.1.15   3389     Remote Desktop           High                       Disable if not in use
+192.168.1.20    22      SSH (Linux)             Medium                   Use SSH Keys, not passwords
