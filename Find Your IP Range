@@ -1,0 +1,15 @@
+Windows:
+Open Command Prompt:
+ipconfig
+
+Look for:
+IPv4 Address
+Subnet Mask
+
+Your range will be:
+192.168.1.0/24(example)
+
+Linux/Kali:
+ifconfig
+or
+ip a
